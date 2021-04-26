@@ -1,5 +1,4 @@
 # Author: Abhi Balijepalli
-## CS331 | Uninformed and Informed Search
 
 ### About:
 Implementing the Chicken and Wolves puzzle using Uniformed and Informed search. Given a start state and a goal state, you have to generate successors.
