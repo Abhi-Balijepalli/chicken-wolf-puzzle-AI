@@ -4,8 +4,10 @@
 Implementing the Chicken and Wolves puzzle using Uniformed and Informed search. Given a start state and a goal state, you have to generate successors.
 
 For example, the initial state
+```
 0,0,0
 3,3,1
+```
 represents 3 chickens, 3 wolves and the boat being on the right bank of the river and nothing on the left bank.
 
 Search Algorithms Used:
